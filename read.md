@@ -1,4 +1,4 @@
-# Car Purchase Analysis Insights (Simple Language)
+# Car Purchase Analysis Insights 
 
 ## What this analysis is about
 This project studies customer data to understand who is more likely to buy a car.
